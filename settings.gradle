@@ -1,0 +1,7 @@
+include ':work_manager'
+include ':thread'
+include ':looper'
+include ':loader_manager'
+include ':data_thread'
+include ':app'
+rootProject.name = "Practice_4"
